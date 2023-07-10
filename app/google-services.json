@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "711358086076",
+    "project_id": "timedatabase-48124",
+    "storage_bucket": "timedatabase-48124.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711358086076:android:31d9a44bee11c4ce0f89b9",
+        "android_client_info": {
+          "package_name": "com.example.lookatthetime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711358086076-iu0r9u4cuftmu6k9frcdg27l3o8reess.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lookatthetime",
+            "certificate_hash": "c00da9192849691ec5eef72680e57ad3b62affc1"
+          }
+        },
+        {
+          "client_id": "711358086076-996qmeun0r1ja6lbt7dbbln7i7bfd2n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr-t3oK_Rw2_4H3PjJSUCT2eNo3-OQz_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711358086076-996qmeun0r1ja6lbt7dbbln7i7bfd2n7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

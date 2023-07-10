@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LookAtTheTime</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to Login</string>
+    <string name="click_to_register">Click to Register</string>
+    <string name="logout">Logout</string>
+    <string name="click_here_to_register">Click here to register</string>
+    <string name="categories">Categories</string>
+    <string name="reports">Reports</string>
+    <string name="timesheets">Timesheets</string>
+    <string name="return_home">Return Home</string>
+    <string name="add_category">Add Category</string>
+</resources>
